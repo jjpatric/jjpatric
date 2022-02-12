@@ -1,6 +1,5 @@
 ### Hello there ヾ(•ω•`)o
 
-- 🧠 I’m currently learning to understand 日本語 ⬜🔴⬜
-- 👬 I’m looking to collaborate on open source Rust projects
+- 👨‍🎓 Currently in my final semester of university
 - 📫 How to reach me: jjpatric@ualberta.ca
 - 😄 Pronouns: He/Him
